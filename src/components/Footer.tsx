@@ -6,12 +6,13 @@ export function Footer() {
     <footer className="bg-[#020202] border-t border-gold/15 pt-16 pb-6 grain relative">
       {/* SEO keyword index block — visible to crawlers, screen readers */}
       <div className="sr-only">
-        <h2>Best Car Travels in Kakinada – KS Travels</h2>
+        <h2>Best Car Travels in Kakinada & Rajamahendravaram – KS Travels</h2>
         <p>
-          KS Travels is the best car travels in Rajamahendravaram (Rajahmundry) and the top-rated cab service in East Godavari district, Andhra Pradesh.
-          We provide car travels near me in Rajahmundry, outstation cab service, airport taxi, wedding cars, tour packages, and 24/7 local taxi.
+          KS Travels is the best car travels in Rajamahendravaram (Rajahmundry), Kakinada, and the top-rated cab service in East Godavari district, Andhra Pradesh.
+          We provide car travels near me in Rajahmundry and Kakinada, outstation cab service, airport taxi, wedding cars, tour packages, and 24/7 local taxi.
         </p>
-        <h3>Car Travels Services in Rajamahendravaram</h3>
+
+        <h3>Car Travels Services in Kakinada</h3>
         <ul>
           <li>Best car travels in Kakinada — KS Travels</li>
           <li>Cab service Kakinada — 24/7 available</li>
@@ -53,64 +54,10 @@ export function Footer() {
           <li>Uppada beach cab from Kakinada</li>
           <li>Coringa wildlife sanctuary taxi Kakinada</li>
         </ul>
-        <p>Contact KS Travels Kakinada: +91 93973 67722. Available 24 hours, 7 days a week.</p>
-      </div>
-      <div className="max-w-7xl mx-auto px-5">
-        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-10 mb-12">
-          <div>
-            <Logo />
-            <p className="mt-4 text-sm text-foreground/55 leading-relaxed">
-              Best car travels in Rajamahendravaram (Rajahmundry) — serving passengers across East Godavari and all AP with 4.9★ rated service.
-            </p>
-            <div className="flex gap-3 mt-5">
-              <a href="https://wa.me/919397367722" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full border border-gold/40 flex items-center justify-center text-gold hover:bg-gold hover:text-black transition-colors">
-                <MessageCircle size={18} />
-              </a>
-              <a href="tel:+919397367722" className="w-10 h-10 rounded-full border border-gold/40 flex items-center justify-center text-gold hover:bg-gold hover:text-black transition-colors">
-                <Phone size={18} />
-              </a>
-            </div>
-          </div>
 
-          <div>
-            <h4 className="font-display text-lg text-gold mb-4">Services</h4>
-            <ul className="space-y-2 text-sm text-foreground/60">
-              {["Local City Drops", "Outstation Trips", "Airport Transfers", "Tour Packages", "Wedding & Events", "Corporate Travel"].map((s) => (
-                <li key={s} className="hover:text-gold cursor-pointer transition-colors">{s}</li>
-              ))}
-            </ul>
-          </div>
-
-          <div>
-            <h4 className="font-display text-lg text-gold mb-4">Our Fleet</h4>
-            <ul className="space-y-2 text-sm text-foreground/60">
-              {["Sedan — Etios / Dzire", "Innova Crysta", "Tempo Traveller", "Fortuner / Luxury", "Camry", "Custom Fleet"].map((s) => (
-                <li key={s} className="hover:text-gold cursor-pointer transition-colors">{s}</li>
-              ))}
-            </ul>
-          </div>
-
-          <div>
-            <h4 className="font-display text-lg text-gold mb-4">Quick Links</h4>
-            <ul className="space-y-2 text-sm text-foreground/60">
-              {[["Fleet", "#fleet"], ["Packages", "#packages"], ["Routes", "#routes"], ["Why Us", "#why"], ["Book Now", "#booking"], ["Contact", "#contact"]].map(([l, h]) => (
-                <li key={l}><a href={h} className="hover:text-gold transition-colors">{l}</a></li>
-              ))}
-            </ul>
-          </div>
-        </div>
-
-        <div className="pt-6 border-t border-gold/10 flex flex-col md:flex-row justify-between items-center gap-3 text-xs text-foreground/40">
-          <div>© 2025 KS Travels, Kakinada. All rights reserved.</div>
-          <div className="flex items-center gap-4">
-            <span className="flex items-center gap-1 text-gold"><Star size={12} fill="currentColor" /> 5.0 · 252 Reviews</span>
-            <a href="tel:+919397367722" className="text-gold hover:text-gold-light">+91 93973 67722</a>
-          </div>
-        </div>
-      </div>
-    </footer>
-  );
-}          <li>Best car travels in Rajamahendravaram — KS Travels</li>
+        <h3>Car Travels Services in Rajamahendravaram (Rajahmundry)</h3>
+        <ul>
+          <li>Best car travels in Rajamahendravaram — KS Travels</li>
           <li>Car travels in Rajamahendravaram — KS Travels Rajahmundry</li>
           <li>Cab service Rajamahendravaram — 24/7 available</li>
           <li>Taxi service Rajahmundry — local and outstation</li>
@@ -151,14 +98,15 @@ export function Footer() {
           <li>Godavari boat ride pickup cab Rajahmundry</li>
           <li>Annavaram tour cab from Rajahmundry</li>
         </ul>
-        <p>Contact KS Travels Kakinada: +91 93973 67722. Available 24 hours, 7 days a week.</p>
+        <p>Contact KS Travels: +91 93973 67722. Available 24 hours, 7 days a week.</p>
       </div>
+
       <div className="max-w-7xl mx-auto px-5">
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-10 mb-12">
           <div>
             <Logo />
             <p className="mt-4 text-sm text-foreground/55 leading-relaxed">
-              Best car travels in Rajamahendravaram (Rajahmundry) — serving passengers across East Godavari and all AP with 4.9★ rated service.
+              Best car travels in Rajamahendravaram (Rajahmundry) & Kakinada — serving passengers across East Godavari and all AP with 4.9★ rated service.
             </p>
             <div className="flex gap-3 mt-5">
               <a href="https://wa.me/919397367722" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full border border-gold/40 flex items-center justify-center text-gold hover:bg-gold hover:text-black transition-colors">
@@ -199,7 +147,7 @@ export function Footer() {
         </div>
 
         <div className="pt-6 border-t border-gold/10 flex flex-col md:flex-row justify-between items-center gap-3 text-xs text-foreground/40">
-          <div>© 2025 KS Travels, Kakinada. All rights reserved.</div>
+          <div>© 2025 KS Travels, Kakinada & Rajahmundry. All rights reserved.</div>
           <div className="flex items-center gap-4">
             <span className="flex items-center gap-1 text-gold"><Star size={12} fill="currentColor" /> 5.0 · 252 Reviews</span>
             <a href="tel:+919397367722" className="text-gold hover:text-gold-light">+91 93973 67722</a>
@@ -209,3 +157,4 @@ export function Footer() {
     </footer>
   );
 }
+
