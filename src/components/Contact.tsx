@@ -51,8 +51,8 @@ export function Contact() {
           className="border border-gold/20 overflow-hidden h-full min-h-[400px]"
         >
           <iframe
-            title="KS Travels — Kakinada"
-            src="https://www.google.com/maps?q=16-23f,+Road+No.+3,+Pallamraju+Nagar,+Kakinada,+Andhra+Pradesh+533101&output=embed"
+            title="KS Travels — Rajahmundry"
+            src="https://www.google.com/maps?q=Alcot+Gardens,+Rajamahendravaram,+Andhra+Pradesh+533101&output=embed"
             className="w-full h-full min-h-[400px]"
             style={{ filter: "grayscale(0.6) invert(0.92) hue-rotate(180deg)" }}
             loading="lazy"

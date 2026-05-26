@@ -94,7 +94,7 @@ export function Hero() {
               <span className="relative inline-flex rounded-full h-2 w-2 bg-green-400" />
             </span>
             <span className="text-[10px] sm:text-xs uppercase tracking-widest text-gold">
-              ★ 4.9 Rated · Open 24 Hours · Kakinada
+              ★ 4.9 Rated · Open 24 Hours · Rajahmundry
             </span>
           </motion.div>
 

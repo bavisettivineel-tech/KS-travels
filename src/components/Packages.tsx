@@ -6,16 +6,16 @@ const packages = [
   {
     icon: Building2,
     name: "Local City Drops",
-    desc: "Comfortable rides within Kakinada for all daily needs",
+    desc: "Comfortable rides within Rajahmundry for all daily needs",
     includes: ["Point to point drops", "AC vehicles", "Affordable rates", "All city areas covered"],
-    msg: "Hi, I need a Local Drop in Kakinada",
+    msg: "Hi, I need a Local Drop in Rajahmundry",
   },
   {
     icon: Route,
     name: "Outstation Trips",
     desc: "Long-distance travel to any city in AP and Telangana",
     includes: ["Hyderabad · Vizag · Vijayawada", "Tirupati · Rajahmundry & more", "One way & round trips", "Night driving available"],
-    msg: "Hi, I need an Outstation Trip from Kakinada",
+    msg: "Hi, I need an Outstation Trip from Rajahmundry",
     featured: true,
   },
   {
@@ -23,28 +23,28 @@ const packages = [
     name: "Airport Transfers",
     desc: "Stress-free pickups & drops to Rajahmundry and Vizag airports",
     includes: ["Flight tracking", "On-time guarantee", "Meet & greet service", "24/7 availability"],
-    msg: "Hi, I need an Airport Transfer from Kakinada",
+    msg: "Hi, I need an Airport Transfer from Rajahmundry",
   },
   {
     icon: Mountain,
     name: "Tour Packages",
     desc: "Explore Andhra's best destinations with comfortable travel",
     includes: ["Araku Valley · Borra Caves", "Tirupati · Srisailam", "Driver-guide option", "Custom itineraries"],
-    msg: "Hi, I need a Tour Package from Kakinada",
+    msg: "Hi, I need a Tour Package from Rajahmundry",
   },
   {
     icon: Heart,
     name: "Wedding & Events",
     desc: "Make your special day memorable with premium decorated cars",
     includes: ["Decorated luxury cars", "Fleet bookings", "Baraat & procession", "Guest shuttle service"],
-    msg: "Hi, I need Wedding Car Service from Kakinada",
+    msg: "Hi, I need Wedding Car Service from Rajahmundry",
   },
   {
     icon: Briefcase,
     name: "Corporate Travel",
     desc: "Reliable executive transport for businesses and professionals",
     includes: ["Monthly packages", "Office cab services", "Executive fleet", "Invoice billing"],
-    msg: "Hi, I need Corporate Travel Service from Kakinada",
+    msg: "Hi, I need Corporate Travel Service from Rajahmundry",
   },
 ];
 

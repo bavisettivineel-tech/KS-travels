@@ -13,7 +13,7 @@ const cards = [
 
 export function About() {
   return (
-    <Section id="about" label="About Us" title="Kakinada's Most Trusted Car Service">
+    <Section id="about" label="About Us" title="Rajahmundry's Most Trusted Car Service">
       <div className="grid lg:grid-cols-2 gap-12 items-start">
         <motion.div
           initial={{ opacity: 0, x: -30 }}
@@ -22,14 +22,14 @@ export function About() {
           transition={{ duration: 0.7 }}
         >
           <p className="text-foreground/70 text-lg leading-relaxed mb-8">
-            KS Travels is the best car travels in Kakinada — trusted by 1000+ happy customers
+            KS Travels is the best car travels in Rajahmundry — trusted by 1000+ happy customers
             across East Godavari district and all of Andhra Pradesh. Whether you need a local city taxi,
             outstation cab to Hyderabad, Vizag, Vijayawada or Tirupati, an airport transfer to
             Rajahmundry or Visakhapatnam Airport, wedding cars, tour packages to Araku Valley,
             Draksharamam, Annavaram, Konaseema or Pancharama Temples — we cover every journey with
             comfort, safety and professionalism. Our 24/7 AC fleet includes Toyota Innova Crysta,
             Force Tempo Traveller, Sedan, Maruti Ertiga, and Honda Amaze. Zero hidden charges. On-time,
-            every time. The most reliable car travels near you in Kakinada.
+            every time. The most reliable car travels near you in Rajahmundry.
           </p>
           <div className="border border-gold/40 bg-black/40 p-6 rounded-lg flex items-center gap-6">
             <div>

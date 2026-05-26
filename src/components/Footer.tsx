@@ -106,7 +106,7 @@ export function Footer() {
           <div>
             <Logo />
             <p className="mt-4 text-sm text-foreground/55 leading-relaxed">
-              Best car travels in Rajamahendravaram (Rajahmundry) & Kakinada — serving passengers across East Godavari and all AP with 4.9★ rated service.
+              Best car travels in Rajamahendravaram (Rajahmundry) — serving passengers across East Godavari and all AP with 4.9★ rated service.
             </p>
             <div className="flex gap-3 mt-5">
               <a href="https://wa.me/919397367722" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full border border-gold/40 flex items-center justify-center text-gold hover:bg-gold hover:text-black transition-colors">
@@ -147,7 +147,7 @@ export function Footer() {
         </div>
 
         <div className="pt-6 border-t border-gold/10 flex flex-col md:flex-row justify-between items-center gap-3 text-xs text-foreground/40">
-          <div>© 2025 KS Travels, Kakinada & Rajahmundry. All rights reserved.</div>
+          <div>© 2025 KS Travels, Rajahmundry. All rights reserved.</div>
           <div className="flex items-center gap-4">
             <span className="flex items-center gap-1 text-gold"><Star size={12} fill="currentColor" /> 5.0 · 252 Reviews</span>
             <a href="tel:+919397367722" className="text-gold hover:text-gold-light">+91 93973 67722</a>
